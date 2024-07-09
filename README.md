@@ -36,4 +36,3 @@ BMP quantifies the amount of methane that can be produced from a given amount of
 
 ---
 
-Feel free to customize this description further to suit the specific needs and style of your GitHub project.
